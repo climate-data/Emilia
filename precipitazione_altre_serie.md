@@ -9,7 +9,7 @@ Due domande:
 
 - Queste serie vengono ancora continuate o sono serie relative a stazioni dismesse?
 
-**Attenzione**: i valori medi annuali utilizzati per il grafico sotto sono stati calcolati senza utilizzare la regola del 3/5 o del 5/10 quindi sono solamente indicativi della numerosità dei dati mancanti (in grigio) e dei dati disponibili (in arancione).
+**Attenzione**: i valori cumulati annuali utilizzati per il grafico sotto sono stati calcolati utilizzando solo i mesi completi (nessun dato giornaliero NA) e gli anni con tutte le stagioni presenti (ammettendo al piu' tre mesi mancanti in un anno).  
 
 |----| Codice |	Nome stazione |	lon |	lat |	quota |	codice HisCentral |
 |----|------|----------------------|----------|----------|-----|-------------------|
@@ -52,3 +52,6 @@ Due domande:
 | 37 | 9404 | VERGATO              | 11.11311 | 44.28781 | 207 | 08VERGATO         |
 | 38 | 9578 | Pennabilli-Marecchia | 12.26900 | 43.82020 | 580 | 08PENNABILLITELE  |
 | 39 | 9623 | SNPANCRAZIO          | 12.08720 | 44.35960 | 9   | 08SNPANCRAZIO     |
+
+
+![](./img/visdat_precipitazione_altre.png)
