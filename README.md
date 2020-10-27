@@ -2,6 +2,9 @@
 
 Revisione dati di temperatura e precipitazione dell'Emilia Romagna.
 
+Le serie di precipitazione sono 464.
+Le serie di temperatura sono 276.
+
 Alcuni risultati per le serie di temperatura [massima](./docs/visdatTmax.html) e [minima](./docs/visdatTmin.html) del rapporto "Gli Indicatori del Clima".
 
 La continuità delle serie annuali di temperatura e delle serie di precipitazione dell'Emilia-Romagna sono visualizzate [qui](./visdat_serie_tutte.md).
