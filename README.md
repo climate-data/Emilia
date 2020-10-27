@@ -29,6 +29,8 @@ Queste sono le serie utilizzate per il Rapporto "Gli Indicatori del clima in Ita
 | 15 | 9577 | Novafeltria Marecchia | 12.29380 | 43.89280 | 263  | 08NOVAFELTRIA     | X | X |
 | 16 | 9588 | San Cassiano Lamone   | 11.69360 | 44.15120 | 437  | 08SNCASSIANO      | X | X |
 
+La continuità delle serie annuali di temperatura massima e di temperatura minima delle serie elencate nella tabella precedente è visualizzata qui.
+
 ### Serie precipitazione :umbrella:
 
 Le serie dell'Emilia Romagna non vengono utilizzate per il Rapporto "Gli Indicatori del clima in Italia". Perchè? :thinking:
