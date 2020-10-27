@@ -31,7 +31,7 @@ Queste sono le serie utilizzate per il Rapporto "Gli Indicatori del clima in Ita
 
 ### Serie precipitazione :umbrella:
 
-Le serie dell'Emilia Romagna non vengono utilizzate per il Rapporto "Gli Indicatori del clima in Italia". Perchè? 
+Le serie dell'Emilia Romagna non vengono utilizzate per il Rapporto "Gli Indicatori del clima in Italia". Perchè? :thinking:
 
 
 
