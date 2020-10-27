@@ -1,6 +1,6 @@
 ### Altre serie di temperatura
 
-Elenco delle stazioni con almeno 40 anni di dati annuali. 
+Elenco delle stazioni con almeno 40 anni di dati annuali (tabella e grafico valgono sia per la temperatura minima che per la massima). 
 
 Due domande:
 
@@ -10,7 +10,7 @@ Due domande:
 
 **Attenzione**: i valori medi annuali utilizzati per il grafico sotto sono stati calcolati senza utilizzare la regola del 3/5 o del 5/10 quindi sono solamente indicativi della numerosità dei dati mancanti (in grigio) e dei dati disponibili (in arancione).
 
-|----|Codice| Nome stazione| 	lon | lat |	quota |	codice | HisCentral |
+|----|Codice| Nome stazione| 	lon | lat |	quota |	codice HisCentral |
 |----|------|------------------------------------------|----------|----------|------|-------------------|
 | 1  | 9024 | BAISO                                    | 10.60569 | 44.49908 | 504  | 08BAISO           |
 | 2  | 9049 | BOLOGNAUFFID                             | 11.34614 | 44.49990 | 45   | 08BOLOGNAUFFID    |
