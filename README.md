@@ -9,7 +9,7 @@ Alcuni risultati per le serie di temperatura [massima](./docs/visdatTmax.html) e
 ### Serie omogeneizzate temperatura massima
 
 |    | Codice| Nome stazione | lon | lat| quota | codice HisCentral| Tmax | Tmin|
-|----|------|-----------------------|----------|----------|------|-------------------|
+|----|------|-----------------------|----------|----------|------|-------------------| ---| --- |
 | 1  | 9013 | ALFONSINE             | 12.04450 | 44.49303 | 7    | 08ALFONSINE       | X | X |
 | 2  | 9036 | BEDONIA               | 9.62672  | 44.50747 | 527  | 08BEDONIA         | X | X |
 | 3  | 9045 | BOBBIO                | 9.38367  | 44.75512 | 364  | 08BOBBIO          | X | X |
