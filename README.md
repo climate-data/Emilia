@@ -31,6 +31,9 @@ Queste sono le serie utilizzate per il Rapporto "Gli Indicatori del clima in Ita
 
 La continuità delle serie annuali di temperatura massima e di temperatura minima delle serie elencate nella tabella precedente è visualizzata [qui](./visdat_serie_omogenee.md).
 
+In [questa](./temperatura_altre_serie.md) pagina sono riportate le stazioni che potrebbero essere utili per alimentare ulteriormente la fonte dati del Rapporto "Gli Indicatori del clima in Italia".
+
+
 ### Serie precipitazione :umbrella:
 
 Le serie dell'Emilia Romagna non vengono utilizzate per il Rapporto "Gli Indicatori del clima in Italia". Perchè? :thinking:
