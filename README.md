@@ -2,8 +2,6 @@
 
 Revisione dati di temperatura e precipitazione dell'Emilia Romagna.
 
-## Temperatura
-
 Alcuni risultati per le serie di temperatura [massima](./docs/visdatTmax.html) e [minima](./docs/visdatTmin.html) del rapporto "Gli Indicatori del Clima".
 
 ### Serie temperatura :sunny:
@@ -29,7 +27,7 @@ Queste sono le serie utilizzate per il Rapporto "Gli Indicatori del clima in Ita
 | 15 | 9577 | Novafeltria Marecchia | 12.29380 | 43.89280 | 263  | 08NOVAFELTRIA     | X | X |
 | 16 | 9588 | San Cassiano Lamone   | 11.69360 | 44.15120 | 437  | 08SNCASSIANO      | X | X |
 
-La continuità delle serie annuali di temperatura massima e di temperatura minima delle serie elencate nella tabella precedente è visualizzata qui.
+La continuità delle serie annuali di temperatura massima e di temperatura minima delle serie elencate nella tabella precedente è visualizzata [qui](./visdat_serie_omogenee.md).
 
 ### Serie precipitazione :umbrella:
 
