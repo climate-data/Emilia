@@ -39,6 +39,8 @@ In [questa](./temperatura_altre_serie.md) pagina sono riportate le stazioni che 
 
 Le serie dell'Emilia Romagna non vengono utilizzate per il Rapporto "Gli Indicatori del clima in Italia". Perchè? :thinking:
 
+In [questa](./precipitazione_altre_serie.md) pagina sono riportate le stazioni che potrebbero essere utili per alimentare la fonte dati del Rapporto "Gli Indicatori del clima in Italia".
+
 
 
 
