@@ -6,7 +6,9 @@ Revisione dati di temperatura e precipitazione dell'Emilia Romagna.
 
 Alcuni risultati per le serie di temperatura [massima](./docs/visdatTmax.html) e [minima](./docs/visdatTmin.html) del rapporto "Gli Indicatori del Clima".
 
-### Serie omogeneizzate temperatura massima
+### Serie omogeneizzate temperatura
+
+Queste sono le serie utilizzate per il Rapporto "Gli Indicatori del clima in Italia".
 
 |    | Codice| Nome stazione | lon | lat| quota | codice HisCentral| Tmax | Tmin|
 |----|------|-----------------------|----------|----------|------|-------------------| ---| --- |
