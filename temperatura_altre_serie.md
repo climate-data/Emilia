@@ -1,6 +1,16 @@
 ### Altre serie di temperatura
 
-|----|Codice| Nome stazione| 	lon | lat |	quota |	codice | HisCentral |	Tmax
+Elenco delle stazioni con almeno 40 anni di dati annuali. 
+
+Due domande:
+
+- Se i criteri di completezza e continuità fossero meno restrittivi, si potrebbero ricavare da questa tabella altre stazioni per il Rapporto "Gli Indicatori del clima in Italia"?
+
+- Queste serie vengono ancora continuate o sono serie relative a stazioni dismesse?
+
+**Attenzione**: i valori medi annuali utilizzati per il grafico sotto sono stati calcolati senza utilizzare la regola del 3/5 o del 5/10 quindi sono solamente indicativi della numerosità dei dati mancanti (in grigio) e dei dati disponibili (in arancione).
+
+|----|Codice| Nome stazione| 	lon | lat |	quota |	codice | HisCentral |
 |----|------|------------------------------------------|----------|----------|------|-------------------|
 | 1  | 9024 | BAISO                                    | 10.60569 | 44.49908 | 504  | 08BAISO           |
 | 2  | 9049 | BOLOGNAUFFID                             | 11.34614 | 44.49990 | 45   | 08BOLOGNAUFFID    |
